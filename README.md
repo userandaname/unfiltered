@@ -1,6 +1,15 @@
 # unfiltered
 
 unfiltered is a Roblox game that bypasses Roblox's chat filters, allowing players to send messages without any restrictions on what they can say.
+<br>
+<br>
+"It's all for science, I swear!"
+
+## Notice
+
+> [!WARNING]
+> Using this as part of your game WILL get you and your game banned.
+> Don't ask me how I know. Continue with caution.
 
 ## Features
 
